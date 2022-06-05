@@ -1,0 +1,1 @@
+export const fetchBaseUrl = "http://localhost:4000/api";
